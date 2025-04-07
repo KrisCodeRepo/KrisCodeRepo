@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrisCodeRepo
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
 <!---
